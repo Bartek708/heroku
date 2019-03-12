@@ -1,0 +1,10 @@
+
+<h2>Info</h2>
+
+<ul>
+    <% pets.forEach(function(pet) { %>
+        <li>Name: <%= pet.name %> <br> Age: <%= pet.age %> <br> Type: <%= pet.type %> <br> <img src= <%= pet.picture %> width="70" height="70" />
+    </li>
+    <% }); %>
+    
+</ul>

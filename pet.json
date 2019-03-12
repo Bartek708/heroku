@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Spot",
+        "age":3,
+        "type":"dog",
+        "picture":"/static/siberian.jpg"
+    },
+    {
+        "name":"Fluffy",
+        "age":5,
+        "type":"rabbit",
+        "picture": "/static/rabbit.jfif"
+    }
+ ]
